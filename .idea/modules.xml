@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cmy-job/cmy-job.iml" filepath="$PROJECT_DIR$/cmy-job/cmy-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cmy-k8s.iml" filepath="$PROJECT_DIR$/cmy-k8s.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cmy-logger/cmy-logger.iml" filepath="$PROJECT_DIR$/cmy-logger/cmy-logger.iml" />
+    </modules>
+  </component>
+</project>
